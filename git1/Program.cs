@@ -14,7 +14,7 @@ namespace git1
             Console.WriteLine("linie2");
             Console.WriteLine("linie3");
             Console.WriteLine("linie4");
-            Console.WriteLine("linie5");
+            Console.WriteLine("linie6");
             Console.ReadLine();
         }
     }
