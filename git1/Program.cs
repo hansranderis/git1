@@ -13,6 +13,7 @@ namespace git1
             Console.WriteLine("hello git");
             Console.WriteLine("linie2");
             Console.WriteLine("linie3");
+            Console.WriteLine("linie4");
             Console.ReadLine();
         }
     }
